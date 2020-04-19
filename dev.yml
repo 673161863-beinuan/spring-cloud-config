@@ -1,2 +1,2 @@
-config:
-  info: "master batch spring-cloud-config version = 1"
+﻿config:
+  info: "master batch spring-cloud-config version = 1 utf-8"
